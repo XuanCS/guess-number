@@ -123,7 +123,8 @@ const styles = StyleSheet.create({
   list: {
     flexGrow: 1, //useful not to hide contents when scrolling
     // alignItems: 'center',
-    justifyContent: 'flex-end',
+    // justifyContent: 'flex-end',
+    // flex:1
   },
   listItem: {
     borderColor: '#ccc',
